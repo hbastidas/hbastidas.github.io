@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://hbastidas.com.ve/archive.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/categories/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/en/archive.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/en/categories/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/en/galleries/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/en/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/galleries/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+ <url>
+  <loc>http://hbastidas.com.ve/listings/index.html</loc>
+  <lastmod>2014-06-06</lastmod>
+ </url>
+</urlset>
